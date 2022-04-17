@@ -1,0 +1,22 @@
+[
+    {
+        "id":1,
+        "name":"Tomatoes",
+        "price" :10,
+        "img" : "https://cdn.t3kys.com/media/upload/userFormUpload/deWOIymkrQstjkftphq7K4oLJeDWr1tW.png"
+    },
+    
+    {
+        "id":2,
+        "name":"potatoes",
+        "price" :12,
+        "img" :"https://imgyukle.com/f/2022/04/17/RupDlU.png"
+    },
+    {
+        "id":3,
+        "name":"Water(carboy)",
+        "price" :24,
+        "img" : "https://cdn.t3kys.com/media/upload/userFormUpload/yvMN7xBJGb7GiR8Ntn8LooIHnFI9pwxj.png"
+    }
+]
+    
